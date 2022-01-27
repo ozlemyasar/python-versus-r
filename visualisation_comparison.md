@@ -48,7 +48,7 @@ scatter + geom_point(aes(color=Species, shape=Species), size=3) +
   ggtitle("A gglot2 Scatterplot")
 ```
 
-![](visualisation_comparison_files/figure-html/unnamed-chunk-3-1.png)<!-- -->
+![](figure-html/unnamed-chunk-3-1.png)<!-- -->
 
 
 
@@ -63,6 +63,6 @@ ax = sns.scatterplot(x='Sepal.Length', y='Sepal.Width', data=iris_pd, hue="Speci
 ax.set_title("A Seaborn Scatterplot")
 ```
 
-<img src="visualisation_comparison_files/figure-html/unnamed-chunk-4-1.png" width="672" />
+<img src="figure-html/unnamed-chunk-4-1.png" width="672" />
 
 

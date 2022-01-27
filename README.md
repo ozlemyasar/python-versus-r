@@ -5,6 +5,11 @@ In this project I intend to:
 - Analyze data
 - Visualize data
 
-Using Python and R.
+Using Python and R.  
+
+## Data Visualisation Comparison
+
+[Click here](visualisation_comparison.md) to see the code that compares python and r in data visualisation.
+
 ## Note
 This project is a work in progress.
